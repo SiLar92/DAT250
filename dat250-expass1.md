@@ -16,19 +16,18 @@ Steps performed (OS: Ubuntu 21.04):
 ## Validation
 _**No issues encountered**_
 
-Validated that the software development environment is working by checking installed versions of the required software, and creating a simple test app for Heroku, which you'll find in this repository.
+Validated that the software development environment is working by checking installed versions of the required software, and used the environment when going through the Heroku tutorial.
 
-## Test app Heroku
+## Experiment: Heroku and Platform as a Service
 _**No issues encountered**_
 
-Went through the [tutorial](https://devcenter.heroku.com/articles/getting-started-with-java) (excluding the Provision add-ons) and created a simple test application to see if I understood everything.
+Went through the [tutorial](https://devcenter.heroku.com/articles/getting-started-with-java) (excluding the Provision add-ons)
 
+There are no pending issues with this assignment as far as I can see.
 
-
-
-### Project URL:
-url
-
+Project URL can be found here:
+[https://sleepy-sands-02043.herokuapp.com/hello
+](https://sleepy-sands-02043.herokuapp.com/hello)
 
 
 
