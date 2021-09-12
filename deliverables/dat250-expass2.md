@@ -11,6 +11,7 @@ version 11.0.2 instead, after this I encountered no more error messages.
 1: Source code found here: [https://github.com/SiLar92/expass2.1a](https://github.com/SiLar92/expass2.1a)
 and here: [https://github.com/SiLar92/expass2.1b](https://github.com/SiLar92/expass2.1b)
 
+2: Source code found here: [https://github.com/SiLar92/expass2.2](https://github.com/SiLar92/expass2.2)
 
 ## Database inspection
 I inspected the database using the built-in database features of Intellij.
@@ -21,7 +22,6 @@ Id is the primary key and is generated automatically using
 GeneratedValue(strategy = GenerationType.IDENTITY)
 summary and description were both strings, in this case always
 given the value "This is a test" as I didn't make any changes.
-
 ![](images/db-table.png?raw=true)
 
 The tables giving me sensible content after running the JPATest.java were these:
