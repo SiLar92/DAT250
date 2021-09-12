@@ -22,4 +22,20 @@ GeneratedValue(strategy = GenerationType.IDENTITY)
 summary and description were both strings, in this case always
 given the value "This is a test" as I didn't make any changes.
 
-The second part of the first experiment...
+![](images/db-table.png?raw=true)
+
+The tables giving me sensible content after running the JPATest.java were these:
+![](images/db-tables2.png?raw=true)
+
+I'm not sure if I missed something in the tutorial about how it should be run to produce
+content in the other tables as shown on the right-hand side, or if IntelliJ's viewer is
+missing some data or relation that exists in the db which should be visible.
+
+In any case I'll test out on monday with a different viewer as well as complete the remaining
+experiment (Banking/Credit Card example JPA). Here are the other tables shown
+in Intellij's viewer:
+![](images/db-tables2.1.png?raw=true)
+
+## Pending issues:
+- Figure out what is causing the db tables to show up almost empty
+- Complete Experiment 2
