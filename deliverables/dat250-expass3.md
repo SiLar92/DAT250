@@ -11,6 +11,12 @@ No technical issues encountered during installation, setup or use of MongoDB.
 #### The correct validation of the installation package https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/
 
 #### Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
+Relevant results Experiment 1:
+![](images/expass3/printout.png?raw=true)
+Printout from performed CRUD operations, performed in the following order with query statements which shows the current contents of the collection:
+
+insert single document -> bulk inserts -> update document -> delete all documents in collection
+
 
 #### Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
