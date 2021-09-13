@@ -36,6 +36,8 @@ experiment (Banking/Credit Card example JPA). Here are the other tables shown
 in Intellij's viewer:
 ![](images/db-tables2.1.png?raw=true)
 
+Experiment 2 seems to have worked fine, same issue with the "empty" tables for the relations between the different entities.
+![](images/tables2.2.png?raw=true)
+
 ## Pending issues:
-- Figure out what is causing the db tables to show up almost empty as shown above.
-- Complete Experiment 2, currently have a rough framework for the datastructures, but need to finish implementing and test to see that everything works as I want it to when starting the db and adding to it.
+- Not sure what is causing the db tables to show up almost empty as shown above. Just placeholder to show relations, or am I missing something?
