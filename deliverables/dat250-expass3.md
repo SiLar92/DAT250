@@ -1,7 +1,10 @@
 # DAT250: Software Technology Experiment Assignment 3
 by Sindre Larsen
 
-### Technical problems that you encountered during installation and use of MongoDB and how you resolved
+[Source code for experiments](https://github.com/SiLar92/expass3)
+
+## Technical issues
+No technical issues encountered during installation, setup or use of MongoDB.
 
 
 ### Screenshots for:
