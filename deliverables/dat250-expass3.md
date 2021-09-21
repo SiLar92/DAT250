@@ -8,11 +8,13 @@ No technical issues encountered during installation, setup or use of MongoDB.
 
 
 ### Screenshots for:
-#### The correct validation of the installation package https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/
+The correct validation of the installation package
+![](images/expass3/verified.png "")
+
 
 #### Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
 Relevant results Experiment 1:
-![](images/expass3/printout.png?raw=true)
+![](images/expass3/printout.png "")
 Printout from performed CRUD operations, performed in the following order with query statements which shows the current contents of the collection:
 
 insert single document -> bulk inserts -> update document -> delete all documents in collection
