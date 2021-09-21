@@ -1,11 +1,13 @@
 # DAT250: Software Technology Experiment Assignment 3
 by Sindre Larsen
 
-[Source code for experiments](https://github.com/SiLar92/expass3)
-
 ## Technical issues
 No technical issues encountered during installation, setup or use of MongoDB.
 
+I did validation on my desktop and the rest on my laptop, so the validation screenshot is from
+Windows while the rest is Ubuntu.
+
+Experiment 1 was also done with java and not in the mongo shell, [Source code here](https://github.com/SiLar92/expass3)
 
 ### Screenshots for:
 The correct validation of the installation package
@@ -22,6 +24,12 @@ insert single document -> bulk inserts -> update document -> delete all document
 
 #### Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
-### Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
+Experiment 2 example:
+![](images/expass3/aggregation.png?raw=true)
 
-### Any pending issues with this assignment which you did not manage to solve
+
+My implemented map-reduce operation ended up being an overview of earnings each date
+![](images/expass3/aggregation2.png?raw=true)
+
+----
+No pending issues.
