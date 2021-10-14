@@ -10,3 +10,5 @@ Assignment 3: see [dat250-expass3.md](deliverables/dat250-expass3.md)
 Assignment 4: see [dat250-expass4.md](deliverables/dat250-expass4.md)
 
 Assignment 5: see [dat250-expass5.md](deliverables/dat250-expass5.md)
+
+Assignment 6: see [dat250-expass6.md](deliverables/dat250-expass6.md)
