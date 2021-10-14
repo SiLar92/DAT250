@@ -19,8 +19,9 @@ Greeting
 
 ## Experiment 2
 
-[comment]: <> (Worked without issues, went through tutorial and got these results:)
+No issues going through the tutorial
 
+![](images/expass6/task2.png "")
 
 
 ----
